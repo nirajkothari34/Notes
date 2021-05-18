@@ -1,0 +1,15 @@
+Step 1 - git config --global user.name "Insert You NAME"
+Step 2 - git config --global user.email "Your Mail ID "
+Step 3 - touch .gitignore (Optional)
+Step 4 - git init
+Step 5 - git status (Optional)
+Step 6 - Git add. (Add Multiple File And Folder)
+Step 7 - git commit -m "Initial commit"
+Step 8 - git remote add origin Paste Your SSH OR HTTPS git id
+Step 9 - git push origin master
+
+if You do Some Change AND Update the Git Project you do followng step 
+
+Step 1 - Git add. (Add Multiple File And Folder)
+Step 2 - git commit -m "Added commit"
+Step 4 - git push origin master
